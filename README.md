@@ -25,3 +25,5 @@ The DNS server could have crashed for not listening to the port, or likely a pos
 ![Tcpdump Log](Analyze%20Tcpdump%20log..png)
 
 
+![Scenario](Scenario-.png)
+
